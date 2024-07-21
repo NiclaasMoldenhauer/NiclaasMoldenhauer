@@ -1,9 +1,8 @@
 <div align="center">
 
-
-![Welcome Header](https://camo.githubusercontent.com/c7299fe2075350401286e4c7b7f5221162fbd6ccfb34bc63b93319acf1093406/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f694f48566b775a4a53524f4f394c616670486958)
-
 # Hi there, I'm Niclaas 👋
+
+![Welcome Header](https://camo.githubusercontent.com/3dac331a2916924dd887ed3c1439321f1bae1fcfeea54456ac4fe70d4630a780/68747470733a2f2f737465656d6974696d616765732e636f6d2f44516d626165646554724675454436316a444841716d5a527632566558337457413670794269347a6f52355432366f2f68656c6c6f776f726c642e676966)
 
 [![GitHub followers](https://img.shields.io/github/followers/TeggeAtze?style=social)](https://github.com/TeggeAtze)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/niclaas-moldenhauer-a9531a213/)
