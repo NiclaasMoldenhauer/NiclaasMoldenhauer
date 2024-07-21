@@ -9,8 +9,7 @@
 
 ## 🚀 About Me
 
-I'm Niclaas, a passionate software developer with a focus on JavaScript. I specialize in creating efficient and user-friendly software solutions. I love tackling new challenges and am committed to continuous learning and growth in the tech industry.
-
+I'm Niclaas, a passionate software developer with a focus on JavaScript. I specialize in creating efficient and user-friendly software solutions.
 ## 🔧 Technologies & Tools
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
