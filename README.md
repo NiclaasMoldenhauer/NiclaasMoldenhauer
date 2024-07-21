@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![Welcome Header](https://camo.githubusercontent.com/c7299fe2075350401286e4c7b7f5221162fbd6ccfb34bc63b93319acf1093406/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f694f48566b775a4a53524f4f394c616670486958)
+
 # Hi there, I'm Niclaas 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/TeggeAtze?style=social)](https://github.com/TeggeAtze)
