@@ -1,15 +1,23 @@
+<div align="center">
+
 # Hi there, I'm Niclaas 👋
+
+[![GitHub followers](https://img.shields.io/github/followers/TeggeAtze?style=social)](https://github.com/TeggeAtze)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/niclaas-moldenhauer-a9531a213/)
+
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## 🚀 About Me
 
-I'm a passionate developer with a strong foundation in JavaScript, dedicated to crafting efficient and user-friendly software solutions. I love tackling new challenges and am always eager to learn and grow in the ever-evolving tech landscape.
+I'm Niclaas, a passionate software developer with a focus on JavaScript. I specialize in creating efficient and user-friendly software solutions. I love tackling new challenges and am committed to continuous learning and growth in the tech industry.
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, HTML, CSS
-- **Frameworks/Libraries:** Node.js, Express, React
-- **Tools:** Git, GitHub, VS Code, Postman
+- **Frameworks:** Node.js, Express, React
 - **Databases:** MongoDB
+- **Tools:** Git, GitHub, VS Code, CI/CD, Docker, Terraform, Ansible
+- **Platforms:** Linux
 
 ## 💼 Projects
 
@@ -19,18 +27,22 @@ A JavaScript-based platformer game showcasing my skills in game development and 
 ### [Authenticator](https://github.com/TeggeAtze/Authenticator)
 A secure and efficient authentication system implemented using modern JavaScript frameworks and libraries.
 
-## 🌱 I'm currently learning
+## 🌱 Currently Learning
 
 - Advanced React techniques
-- CI/CD Pipelines
 - TypeScript
 - Cloud services with AWS
 
+## 📈 GitHub Stats
+
+![Niclaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeggeAtze&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeggeAtze&layout=compact&theme=radical)
+
 ## 💬 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/niclaas-moldenhauer-a9531a213/))
-- [Email](mailto:niclaasmoldenhauer@googlemail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/niclaas-moldenhauer-a9531a213/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:niclaasmoldenhauer@gmail.com)
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or just chat about tech!
 
-![Profile views](https://gpvc.arturio.dev/TeggeAtze)
+</div>
