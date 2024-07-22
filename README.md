@@ -2,7 +2,7 @@
 
 # Hi there, I'm Niclaas 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/TeggeAtze?style=social)](https://github.com/TeggeAtze)
+[![GitHub followers](https://img.shields.io/github/followers/NiclaasMoldenhauer?style=social)](https://github.com/NiclaasMoldenhauer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/niclaas-moldenhauer-a9531a213/)
 
 ![Welcome Header](https://camo.githubusercontent.com/3dac331a2916924dd887ed3c1439321f1bae1fcfeea54456ac4fe70d4630a780/68747470733a2f2f737465656d6974696d616765732e636f6d2f44516d626165646554724675454436316a444841716d5a527632566558337457413670794269347a6f52355432366f2f68656c6c6f776f726c642e676966)
@@ -37,10 +37,10 @@ I'm Niclaas, a passionate software developer with a focus on JavaScript. I speci
 
 ## 💼 Projects
 
-### [js-platformer](https://github.com/TeggeAtze/js-platformer)
+### [js-platformer](https://github.com/NiclaasMoldenhauer/js-platformer)
 A JavaScript-based platformer game showcasing my skills in game development and user interface design.
 
-### [Authenticator](https://github.com/TeggeAtze/Authenticator)
+### [Authenticator](https://github.com/NiclaasMoldenhauer/Authenticator)
 A secure and efficient authentication system implemented using modern JavaScript frameworks and libraries.
 
 ## 🌱 Currently Learning
@@ -51,8 +51,8 @@ A secure and efficient authentication system implemented using modern JavaScript
 
 ## 📈 GitHub Stats
 
-![Niclaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeggeAtze&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeggeAtze&layout=compact&theme=dark)
+![Niclaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiclaasMoldenhauer&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiclaasMoldenhauer&layout=compact&theme=dark)
 
 ## 💬 Let's Connect
 
