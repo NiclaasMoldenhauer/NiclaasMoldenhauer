@@ -51,8 +51,8 @@ A secure and efficient authentication system implemented using modern JavaScript
 
 ## 📈 GitHub Stats
 
-![Niclaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeggeAtze&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeggeAtze&layout=compact&theme=radical)
+![Niclaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeggeAtze&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeggeAtze&layout=compact&theme=dark)
 
 ## 💬 Let's Connect
 
