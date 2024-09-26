@@ -37,11 +37,18 @@ I'm Niclaas, a passionate software developer with a focus on JavaScript. I speci
 
 ## 💼 Projects
 
+### [WaveLynk Instant Messenger](https://github.com/NiclaasMoldenhauer/WaveLynk)
+An instant messenger, built on a MERN Stack, using mostly typescript. Showcasing my progress and skills in various important skills.
+
+### [Authenticator](https://github.com/NiclaasMoldenhauer/Authenticator)
+A secure and efficient authentication system implemented using modern JavaScript frameworks and libraries. Also serves as foundation for my Messenger App.
+
+### [easy-wow-fishing-bot](https://github.com/NiclaasMoldenhauer/easy-wow-fishing-bot)
+A simple python script for World of Warcraft fishing, utilizing openCV.
+
 ### [js-platformer](https://github.com/NiclaasMoldenhauer/js-platformer)
 A JavaScript-based platformer game showcasing my skills in game development and user interface design.
 
-### [Authenticator](https://github.com/NiclaasMoldenhauer/Authenticator)
-A secure and efficient authentication system implemented using modern JavaScript frameworks and libraries.
 
 ## 🌱 Currently Learning
 
