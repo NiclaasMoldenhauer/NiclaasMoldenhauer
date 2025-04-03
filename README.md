@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm Niclaas, a passionate software developer with a focus on JavaScript. I specialize in creating efficient and user-friendly software solutions.
+I'm Niclaas, a passionate fullstack developer with a focus on JavaScript. I specialize in creating efficient and user-friendly software solutions.
 ## 🔧 Technologies & Tools
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
@@ -38,7 +38,7 @@ I'm Niclaas, a passionate software developer with a focus on JavaScript. I speci
 ## 💼 Projects
 
 ### [WaveLynk Instant Messenger](https://github.com/NiclaasMoldenhauer/WaveLynk)
-An instant messenger, built on a MERN Stack, using mostly typescript. Showcasing my progress and skills in various important skills.
+An instant messenger, built on a MERN Stack, using mostly typescript.
 
 ### [Authenticator](https://github.com/NiclaasMoldenhauer/Authenticator)
 A secure and efficient authentication system implemented using modern JavaScript frameworks and libraries. Also serves as foundation for my Messenger App.
@@ -47,14 +47,9 @@ A secure and efficient authentication system implemented using modern JavaScript
 A simple python script for World of Warcraft fishing, utilizing openCV.
 
 ### [js-platformer](https://github.com/NiclaasMoldenhauer/js-platformer)
-A JavaScript-based platformer game showcasing my skills in game development and user interface design.
+A JavaScript-based platformer game.
 
 
-## 🌱 Currently Learning
-
-- Advanced React techniques
-- TypeScript
-- Cloud services with AWS
 
 ## 📈 GitHub Stats
 
