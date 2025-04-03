@@ -2,17 +2,10 @@
 
 # Hi there, I'm Niclaas 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/NiclaasMoldenhauer?style=social)](https://github.com/NiclaasMoldenhauer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/niclaas-moldenhauer-a9531a213/)
-
-![Welcome Header](https://camo.githubusercontent.com/3dac331a2916924dd887ed3c1439321f1bae1fcfeea54456ac4fe70d4630a780/68747470733a2f2f737465656d6974696d616765732e636f6d2f44516d626165646554724675454436316a444841716d5a527632566558337457413670794269347a6f52355432366f2f68656c6c6f776f726c642e676966)
-
 ## 🚀 About Me
 
 I'm Niclaas, a passionate fullstack developer with a focus on JavaScript. I specialize in creating efficient and user-friendly software solutions.
 ## 🔧 Technologies & Tools
-
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 <div>
   
@@ -62,5 +55,9 @@ A JavaScript-based platformer game.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:niclaasmoldenhauer@gmail.com)
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or just chat about tech!
+
+
+[![GitHub followers](https://img.shields.io/github/followers/NiclaasMoldenhauer?style=social)](https://github.com/NiclaasMoldenhauer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/niclaas-moldenhauer-a9531a213/)
 
 </div>
