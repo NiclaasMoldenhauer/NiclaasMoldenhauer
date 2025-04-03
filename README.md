@@ -53,11 +53,8 @@ A JavaScript-based platformer game.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/niclaas-moldenhauer-a9531a213/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:niclaasmoldenhauer@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/NiclaasMoldenhauer?style=social)](https://github.com/NiclaasMoldenhauer)
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or just chat about tech!
-
-
-[![GitHub followers](https://img.shields.io/github/followers/NiclaasMoldenhauer?style=social)](https://github.com/NiclaasMoldenhauer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/niclaas-moldenhauer-a9531a213/)
 
 </div>
